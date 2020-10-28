@@ -5,11 +5,15 @@ This provides a better solution than including the file directly...which is the 
 
 # Installation
 run:
+
 `npm install git+https://github.com/rekliner/semantic-ui-tablesort.git `
+
 or via ssh:
+
 `npm install git+ssh://git@github.com/rekliner/semantic-ui-tablesort.git `
 
 or add directly to your package.json:
+
 `"symantic-ui-tablesort": "git+https://github.com/rekliner/semantic-ui-tablesort.git",`
 
 # quibbles
